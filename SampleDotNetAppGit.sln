@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleDotNetAppGit", "SampleDotNetAppGit\SampleDotNetAppGit.csproj", "{F23F7895-E880-4A9A-8C82-A761A0BFF9D1}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{250C479C-DDC1-4430-8A76-D1C26E9D01E0}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F23F7895-E880-4A9A-8C82-A761A0BFF9D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F23F7895-E880-4A9A-8C82-A761A0BFF9D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F23F7895-E880-4A9A-8C82-A761A0BFF9D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F23F7895-E880-4A9A-8C82-A761A0BFF9D1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{250C479C-DDC1-4430-8A76-D1C26E9D01E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{250C479C-DDC1-4430-8A76-D1C26E9D01E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{250C479C-DDC1-4430-8A76-D1C26E9D01E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
