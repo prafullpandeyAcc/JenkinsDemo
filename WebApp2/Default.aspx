@@ -4,7 +4,7 @@
 
     <div class="jumbotron">
         <h1>JENKINS</h1>
-        <p class="lead">Welcome to the Jenkins demo DevOpsIgnite 28Aug2019</p>
+        <p class="lead">Welcome to the Jenkins demo DevOpsIgnite 30Aug2019</p>
         
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
